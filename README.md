@@ -1,2 +1,2 @@
-# mi_primer_reprositorio-PROYECTO-
+PROYECTO
 Proyecto con HTML, CSS, JavaScript
